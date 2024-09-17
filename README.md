@@ -1,2 +1,2 @@
-# snaek
-gaem
+# snaek gaem
+gaem thas fun methinsk
